@@ -44,7 +44,7 @@ part = 0
 startIndexW = 0
 startIndexH = 0
 flag = 0
-threshold = (new_height*new_width)*0.01
+threshold = (new_height*new_width)*0.1
 thresh_passed_count = 0
 while part < k * k:
     # Each part processed , define start Indexes.

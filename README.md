@@ -8,3 +8,10 @@ Project goals:
 
 
 ![process of the corner harris](https://github.com/RoieHub/pi_in_the_sky_satellite/blob/main/test_images/steps.png)
+
+Install 
+
+Raspbian Versions List
+the link for the final version of the rasbian + algorithem is here:
+https://www.dropbox.com/s/bzfl5s55a56e5vz/raspbianwithautologandcv.zip?dl=0
+
